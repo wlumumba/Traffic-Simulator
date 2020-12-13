@@ -1,3 +1,6 @@
+# Output for data-trivial.txt
+<img src="Traffic Simulator Example.png" width = 500  >
+
 # Traffic-Simulator
 This project aims to simulate cars (represented by integers) moving on a road, and through intersections in order to arrive at their destination; using graph and queue data structures.
 # Motivation
